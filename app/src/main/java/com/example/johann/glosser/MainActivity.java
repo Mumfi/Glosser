@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
    }
 
     public void createQuiz(View view) {
-        Intent intent = new Intent(this, createQuizAcivity.class);
+        Intent intent = new Intent(this, CreateQuizAcivity.class);
         startActivity(intent);
 
     }

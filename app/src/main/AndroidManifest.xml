@@ -17,11 +17,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".createQuizAcivity"
+            android:name=".CreateQuizAcivity"
             android:label="@string/title_activity_create_quiz_acivity" >
         </activity>
         <activity
-            android:name=".startQuizActivity"
+            android:name=".StartQuizActivity"
             android:label="@string/title_activity_start_quiz_acivity" >
         </activity>
     </application>
